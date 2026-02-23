@@ -4,6 +4,8 @@
 
 #### Feel free to contribute!
 
+### Checkout the [new NeoVim plugin for tasky](https://github.com/fynjirby/tasky.nvim)!
+
 ## Install
 
 #### Fastest way 
